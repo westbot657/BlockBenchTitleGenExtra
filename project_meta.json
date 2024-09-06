@@ -1,0 +1,6 @@
+{
+  "_comment": "this file is used by my website to display project info",
+  "description": "A tool to generate textures based on simple yet powerful rules",
+  "version": "BETA 0.0",
+  "languages": ["python"]
+}
